@@ -40,3 +40,6 @@ Command-line arguments:  -data /home/utnso/TP-Para-Arriba-SO -os linux -ws gtk -
 
 !ENTRY org.eclipse.cdt.core 1 0 2023-04-09 21:44:38.466
 !MESSAGE Indexed 'CPU' (0 sources, 0 headers) in 0.002 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-04-09 21:45:05.507
+!MESSAGE Indexed 'File_System' (0 sources, 0 headers) in 0.001 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
