@@ -9,3 +9,5 @@
 #include<readline/readline.h>
 
 #include "utils.h"
+
+a ver si lo leen
