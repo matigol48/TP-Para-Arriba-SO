@@ -1937,3 +1937,25 @@ org.eclipse.core.runtime.CoreException: Cannot determine URI for '/CPU/cpu.c'.
 
 !ENTRY org.eclipse.cdt.core 1 0 2023-04-10 21:50:24.955
 !MESSAGE Indexed 'Memoria' (0 sources, 0 headers) in 0.003 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+!SESSION 2023-04-10 22:09:34.788 -----------------------------------------------
+eclipse.buildId=4.25.0.I20220831-1800
+java.version=17.0.4.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-04-10 22:10:16.493
+!MESSAGE Indexed 'CPU' (0 sources, 0 headers) in 0.3 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-04-10 22:10:16.501
+!MESSAGE Indexed 'File_System' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-04-10 22:10:18.005
+!MESSAGE Indexed 'Consola' (2 sources, 130 headers) in 1.5 sec: 4,335 declarations; 4,697 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-04-10 22:10:18.015
+!MESSAGE Indexed 'Memoria' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-04-10 22:11:54.788
+!MESSAGE Indexed 'Kerner' (2 sources, 99 headers) in 0.813 sec: 2,703 declarations; 3,568 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
